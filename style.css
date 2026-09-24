@@ -47,17 +47,18 @@
 }
 
 .icon {
- position: absolute;
- left: 1rem;
+    position:absolute;
+margin-left:0.5em;
  fill: #d9d9ff;
- width: 1rem;
- height: 1rem;
+ width: 1em;
+ height: 2.5em;
 }
 
 
 
 .buscar{
-    margin-right: auto;
+     margin-right: auto;
     margin-left: 2em;
+    position: relative;
 }
 
