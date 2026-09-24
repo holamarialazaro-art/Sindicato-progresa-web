@@ -62,9 +62,9 @@ margin-left:0.5em;
     position: relative;
 }
 #carruselPrincipal {
-    max-width: 60em;
+    max-width: auto;
     max-height: 30em;
-    margin: 0 auto;
+    margin: 2em auto;
 }
 h5{
     margin-bottom: 1em;
